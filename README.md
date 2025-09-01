@@ -5,13 +5,13 @@ It allows users to add tasks, delete them, and mark tasks as completed with chec
 
   🚀 Features
 
-➕ Add Tasks – type in a task and click Add to add it to the list.
+ Add Tasks – type in a task and click Add to add it to the list.
 
-✅ Mark as Completed – select a task and check it off as done.
+ Mark as Completed – select a task and check it off as done.
 
-❌ Delete Tasks – remove selected tasks from the list.
+Delete Tasks – remove selected tasks from the list.
 
-📋 Scrollable Task List – supports multiple tasks with a scrollable list.
+ Scrollable Task List – supports multiple tasks with a scrollable list.
 
 
 
